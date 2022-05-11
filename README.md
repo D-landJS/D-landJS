@@ -8,11 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;I'm a FullStack Developer
 
-🚀 &nbsp;I am constantly improving my skills to build quality software.\
-🧪 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🖍 &nbsp;In my free time, I learn things  Design and Blog Writing as hobbies/side hustle skills to build quality software.\
-🎙 &nbsp;Feel free to contact me for advice and help (as far as I can), or just for an interesting discussion.\
-📇 &nbsp;You can shoot me an email at kerwinsandovals@gmail.com! I'll try to respond as soon as I can.\
+🚀 &nbsp;I am constantly practicing to improve my skills.\
+🧪 &nbsp;I like to learn new technologies.\
+🖍 &nbsp;My hobbies are playing the guitar, reading a little of everything, watching series and playing video games..\
+📇 &nbsp;You can contact me with my email at dylandarrese80@gmail.com!.\
 <!-- 👾 &nbsp;Please have a look at my [Resume](https://kido.website/static/media/kerwinCV.63ed7658.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 
