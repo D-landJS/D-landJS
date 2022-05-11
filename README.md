@@ -58,10 +58,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/D-landJS">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=d-landjs&&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
+  <a href="https://github.com/Kerwin-Joel">
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kerwin-Joel&show_icons=true&theme=tokyonight"/>
     <img align="center" height="180em" />
-    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d-landjs&&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
+    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kerwin-Joel&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
