@@ -1,6 +1,6 @@
 
 
-<img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='25%' align="left"/>
+<img src="https://tenor.com/view/zoro-gif-22575401" width='25%' align="left"/>
 <h2 align="right"> 👾👾 Hi there, I'm  D land Arrese 👾👾</h2>
 <img src="https://giffiles.alphacoders.com/214/214311.gif"  width='100%' height='40'/> 
 
@@ -47,7 +47,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://tenor.com/view/zoro-one-piece-sword-epic-gif-17912030" />
 
 ### Spotify Playing 🎧
 
