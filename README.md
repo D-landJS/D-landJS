@@ -1,14 +1,10 @@
-### Hi there 👋
 
-<!--
-**D-landJS/D-landJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='25%' align="left"/>
-  <h2 align="right"> 👾👾 Hi there, I'm  D land Arrese 👾👾</h2>
-  <img src="https://giffiles.alphacoders.com/214/214311.gif"  width='100%' height='40'/> 
+<img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='25%' align="left"/>
+<h2 align="right"> 👾👾 Hi there, I'm  D land Arrese 👾👾</h2>
+<img src="https://giffiles.alphacoders.com/214/214311.gif"  width='100%' height='40'/> 
 
----
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
 
 ### 👨🏻‍💻 &nbsp;I'm a FullStack Developer
 
