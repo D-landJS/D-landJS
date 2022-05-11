@@ -31,7 +31,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-292043?style=flat&logo=SASS)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-292043?style=flat&logo=Express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-292043?style=flat&logo=MongoDB)&nbsp;
-![Stripe](https://img.shields.io/badge/-Stripe-292043?style=flat&logo=Stripe)&nbsp;
+![LeaftLet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)&nbsp;
 ![GreenSock](https://img.shields.io/badge/-GreenSock-292043?style=flat&logo=GreenSock)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-292043?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-292043?style=flat&logo=git)&nbsp;
