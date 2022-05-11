@@ -16,7 +16,7 @@
 <!-- 👾 &nbsp;Please have a look at my [Resume](https://kido.website/static/media/kerwinCV.63ed7658.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 
-<img alt="Night Coding" src="https://tenor.com/view/anime-sip-drink-gif-23095189" align="right" width='300'/>
+<img alt="Night Coding" src="https://media.giphy.com/media/HrEzYxOULdOjm/giphy.gif" align="right" width='300'/>
 
 
 
@@ -47,7 +47,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/HrEzYxOULdOjm/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
