@@ -16,7 +16,7 @@
 <!-- 👾 &nbsp;Please have a look at my [Resume](https://kido.website/static/media/kerwinCV.63ed7658.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 
-<img alt="Night Coding" src="https://i.giphy.com/media/xAzW9Oi28p1VS/giphy.webp" align="right" width='300'/>
+<img alt="Night Coding" src="https://tenor.com/view/zoro-gif-22141938" align="right" width='300'/>
 
 
 
