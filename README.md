@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://github.com/D-landJS">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=d-landjs&&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
-    <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d-landjs&&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
+    <img align="center" height="180em" width="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d-landjs&&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
   </a>
 </p>
 
