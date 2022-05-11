@@ -47,7 +47,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://tenor.com/view/zoro-one-piece-sword-epic-gif-17912030" />
+<img align="right" alt="GIF" height="170px" src="https://tenor.com/view/zoro-gif-22575401" />
 
 ### Spotify Playing 🎧
 
