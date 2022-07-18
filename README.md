@@ -13,7 +13,7 @@
 🖍 &nbsp;My hobbies are playing the guitar, reading a little of everything, watching series and playing video games..\
 📇 &nbsp;You can contact me with my email at dylandarrese80@gmail.com!.\
 <!-- 👾 &nbsp;Please have a look at my [Resume](https://kido.website/static/media/kerwinCV.63ed7658.pdf) for more details about me. I'm open to feedback and suggestions! -->
-
+[My Linkedin](https://pe.linkedin.com/in/d-landjs)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/HrEzYxOULdOjm/giphy.gif" align="right" width='300'/>
 
@@ -60,7 +60,7 @@
    <img align="center" height="180em" />
     <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d-landjs&layout=compact&langs_count=8&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
 </p>
-[My Linkedin](https://www.linkedin.com/in/kumarsubroto)
+
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
