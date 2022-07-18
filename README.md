@@ -60,7 +60,7 @@
    <img align="center" height="180em" />
     <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d-landjs&layout=compact&langs_count=8&show_icons=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E"/>
 </p>
-
+[My Linkedin](https://www.linkedin.com/in/kumarsubroto)
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
