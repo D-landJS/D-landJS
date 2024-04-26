@@ -83,7 +83,6 @@
 
 
 ---
-
-<img src="https://i.imgur.com/O3Bxs16.gif" width='100%' height='200'/> 
+<img src="https://i.imgur.com/9ctEsTs.gif" width='100%' height='200'/> 
 
 
