@@ -81,8 +81,7 @@
 </p>  -->
 
 
-
 ---
-<img src="https://i.imgur.com/9ctEsTs.gif" width='100%' height='200'/> 
+<img src="https://favim.com/pd/s9/orig/131123/anime-gif-luffy-one-piece-Favim.com-1086447.gif" width='100%' height='200'/> 
 
 
