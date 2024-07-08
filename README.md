@@ -66,16 +66,16 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!-- <p align="center">
-  <a href="https://kido.website">
+  <a href="">
     <img height="30" src="https://img.shields.io/badge/-kido.website-292043?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kerwin-sandoval/">
+  <a href="https://www.linkedin.com/in/d-landjs/">
     <img height="30" src="https://img.shields.io/badge/-Kerwin%20Sandoval-292043?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kerwinsandovals@gmail.com">
+  <a href="mailto:dylandarrese80@gmail.com">
     <img height="30" src="https://img.shields.io/badge/-kerwinsandovals@gmail.com-292043?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/KerwinDev">
+  <a href="https://twitter.com/D_landJS">
     <img height="30" src="https://img.shields.io/badge/-@KerwinDev-292043?style=flat&logo=twitter&logoColor=white"/>
   </a>
 </p>  -->
