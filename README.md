@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/c16VBx4QeNq9i/giphy.gif" width='25%' align="left"/>
 <h2 align="right"> 👾👾 Hi there, I'm  D land Arrese 👾👾</h2>
-<img src="https://giffiles.alphacoders.com/214/214311.gif"  width='100%' height='40'/> 
+<img src="https://giffiles.alphacoders.com/214/214311.gif"  width='100%' height='20'/> 
 
 
 
