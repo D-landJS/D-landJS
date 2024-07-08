@@ -65,7 +65,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<-- <p align="center">
+<!-- <p align="center">
   <a href="">
     <img height="30" src="https://img.shields.io/badge/-kido.website-292043?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a> -->
